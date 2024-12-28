@@ -1,0 +1,7 @@
+---
+title: "Lifecycle Example"
+filters:
+  - path: lifecycle
+    at: pre-ast
+---
+
